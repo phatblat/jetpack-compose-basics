@@ -16,4 +16,5 @@ Pods/
 bin/
 build/
 gradlew.bat
+local.properties
 xcuserdata
